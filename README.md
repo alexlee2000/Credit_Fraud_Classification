@@ -62,11 +62,11 @@ Reading in X_train_final, Y_train_final, X_val_final, Y_val_final
 ### Step 2: Memory Reduction 
 We do a final memory reduction procedure in order to save some processing ability for our modelling 
 
-## Step 3: Random Forest Implementation 
+### Step 3: Random Forest Implementation 
 Initial random forest model prediction using default hyperparameters provides an accuracy of #0.9999209027631302
 
-## Step 4: Hyperparameter tuning 
+### Step 4: Hyperparameter tuning 
 Tuning for a subset of hyperparameters in order to improve performance further 
 
-## Step 5: Final Model 
+### Step 5: Final Model 
 Final model obtained given specific hyperparameters. 
